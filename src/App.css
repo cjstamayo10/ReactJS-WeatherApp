@@ -1,0 +1,15 @@
+.bg-img{
+    background-image: url(/public/assets/clouds.jpg);
+    background-color: #465855;
+    background-blend-mode: multiply;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color:#fff;
+    min-height:100vh;
+    width: 100%;
+}
+.bg-blur-container{
+    background-color: rgba(0, 0, 0, 0.35);
+    backdrop-filter: blur(10px);
+}

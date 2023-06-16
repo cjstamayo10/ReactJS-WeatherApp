@@ -1,0 +1,15 @@
+.current-weather img{
+    height: 164px;
+    width: auto;
+}
+.icon img, .value img{
+    height: 36px;
+    width: auto;
+}
+.card{
+    max-width: 8rem;
+    background-color: rgba(0, 0, 0, 0.01);
+    backdrop-filter: blur(10px);
+    color:#ffffff;
+    border:none;
+}
